@@ -1,0 +1,13 @@
+C:\Users\David\source\repos\Carla-Lorena-Paz\Carla Lorena Paz\Ejercicio 2\bin\Debug\netcoreapp3.1\Ejercicio 2.exe
+C:\Users\David\source\repos\Carla-Lorena-Paz\Carla Lorena Paz\Ejercicio 2\bin\Debug\netcoreapp3.1\Ejercicio 2.deps.json
+C:\Users\David\source\repos\Carla-Lorena-Paz\Carla Lorena Paz\Ejercicio 2\bin\Debug\netcoreapp3.1\Ejercicio 2.runtimeconfig.json
+C:\Users\David\source\repos\Carla-Lorena-Paz\Carla Lorena Paz\Ejercicio 2\bin\Debug\netcoreapp3.1\Ejercicio 2.runtimeconfig.dev.json
+C:\Users\David\source\repos\Carla-Lorena-Paz\Carla Lorena Paz\Ejercicio 2\bin\Debug\netcoreapp3.1\Ejercicio 2.dll
+C:\Users\David\source\repos\Carla-Lorena-Paz\Carla Lorena Paz\Ejercicio 2\bin\Debug\netcoreapp3.1\Ejercicio 2.pdb
+C:\Users\David\source\repos\Carla-Lorena-Paz\Carla Lorena Paz\Ejercicio 2\obj\Debug\netcoreapp3.1\Ejercicio 2.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\Carla-Lorena-Paz\Carla Lorena Paz\Ejercicio 2\obj\Debug\netcoreapp3.1\Ejercicio 2.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\Carla-Lorena-Paz\Carla Lorena Paz\Ejercicio 2\obj\Debug\netcoreapp3.1\Ejercicio 2.AssemblyInfo.cs
+C:\Users\David\source\repos\Carla-Lorena-Paz\Carla Lorena Paz\Ejercicio 2\obj\Debug\netcoreapp3.1\Ejercicio 2.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Carla-Lorena-Paz\Carla Lorena Paz\Ejercicio 2\obj\Debug\netcoreapp3.1\Ejercicio 2.dll
+C:\Users\David\source\repos\Carla-Lorena-Paz\Carla Lorena Paz\Ejercicio 2\obj\Debug\netcoreapp3.1\Ejercicio 2.pdb
+C:\Users\David\source\repos\Carla-Lorena-Paz\Carla Lorena Paz\Ejercicio 2\obj\Debug\netcoreapp3.1\Ejercicio 2.genruntimeconfig.cache
